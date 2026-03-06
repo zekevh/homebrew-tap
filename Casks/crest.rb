@@ -12,7 +12,7 @@
 
 cask "crest" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_SHA256_FROM_ACTIONS_SUMMARY"
+  sha256 "cf626082b65e08486dace8baee8e87ee8d1eca72f2225928267f3547a507b701"
 
   url "https://github.com/zekevh/Crest/releases/download/v#{version}/Crest-#{version}.dmg"
 

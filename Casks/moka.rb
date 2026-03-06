@@ -12,7 +12,7 @@
 
 cask "moka" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_SHA256_FROM_ACTIONS_SUMMARY"
+  sha256 "625cca87987a9ffb83871f0b34d43c94fb5555a11e7e95ce016bd3de59e37e3c"
 
   url "https://github.com/zekevh/Moka/releases/download/v#{version}/Moka-#{version}.dmg"
 
