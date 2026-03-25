@@ -11,8 +11,8 @@
 #   2. Replace `sha256` with the SHA256 printed in the GitHub Actions release summary.
 
 cask "moka" do
-  version "1.0.0"
-  sha256 "625cca87987a9ffb83871f0b34d43c94fb5555a11e7e95ce016bd3de59e37e3c"
+  version "1.1.0"
+  sha256 "c7aa4d3d98dba1f291fe64c39d97b7443129876c23a8e4816d30bb9a87e242fc"
 
   url "https://github.com/zekevh/Moka/releases/download/v#{version}/Moka-#{version}.dmg"
 
