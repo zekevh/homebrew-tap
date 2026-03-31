@@ -8,8 +8,8 @@
 #   2. Replace `sha256` with the SHA256 printed in the GitHub Actions release summary.
 
 cask "marklens" do
-  version "1.2"
-  sha256 "8079a691df1ac794de03c10cb03bc13f7416fb195bfb4bad6a6a0608a9842bbc"
+  version "1.3"
+  sha256 "b36f23ec1b9f6575ffc0df3a84a6863973e49b76a98ca5ae10e7849837cf3316"
 
   url "https://github.com/zekevh/MarkLens/releases/download/v#{version}/MarkLens-#{version}.dmg"
 
