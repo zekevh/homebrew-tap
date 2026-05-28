@@ -8,8 +8,8 @@
 #   2. Replace `sha256` with the SHA256 printed in the GitHub Actions release summary.
 
 cask "orbit" do
-  version "1.0.0"
-  sha256 "ad857fa88f787aaddc33f1c57702e622823fa3df0b2ec9c08b650389741b19b9"
+  version "1.2.0"
+  sha256 "48da93749ed79c16391e9f3565b44d3e71b53e09b1361383fb941659ebed2d7b"
 
   url "https://github.com/zekevh/Orbit/releases/download/v#{version}/Orbit-#{version}.dmg"
 
